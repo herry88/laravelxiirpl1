@@ -69,6 +69,13 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
+## Cara Install 
+-  git clone https://github.com/herry88/laravelxiirpl1
+-  composer install
+-  cp .env.example .env
+-  php artisan key:generate
+-  php artisan serve
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
