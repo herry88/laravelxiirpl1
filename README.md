@@ -74,6 +74,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 -  composer install
 -  cp .env.example .env
 -  php artisan key:generate
+-  php artisan migrate / php artisan migrate:fresh
 -  php artisan serve
 
 ## Security Vulnerabilities
